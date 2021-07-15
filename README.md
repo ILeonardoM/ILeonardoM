@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ILeonardoM
+- 👋 Hi, I’m @ILeonardoM OR Leonardo martins
 - 👀 I’m interested in front end develop and ui/ux design.
 - 🌱 I’m currently learning git e github, front end e design.
 - 💞️ I’m looking to collaborate on ...
